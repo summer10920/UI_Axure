@@ -1,0 +1,638 @@
+﻿.ax_default {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#666666;
+  text-align:center;
+  line-height:normal;
+}
+.fontawesome {
+}
+._文本段落 {
+  text-align:left;
+}
+._形狀 {
+}
+._下拉列錶框 {
+  font-size:14px;
+  text-align:left;
+}
+._複選框 {
+  font-size:14px;
+  text-align:left;
+}
+._單選按鈕 {
+  font-size:14px;
+  text-align:left;
+}
+._表格 {
+}
+._垂直線 {
+}
+._鼠標懸停文本鏈接時 {
+}
+._文本框 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+._單選按鈕1 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+.box_1 {
+}
+.box_2 {
+}
+.box_3 {
+}
+.ellipse {
+}
+._圖片 {
+}
+.placeholder {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+._一級標題 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二級標題 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三級標題 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四級標題 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五級標題 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  text-align:left;
+}
+._六級標題 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._文本段落1 {
+  font-size:14px;
+  text-align:left;
+  line-height:22px;
+}
+._文本鏈接 {
+  color:#0000FF;
+}
+._鼠標懸停文本鏈接時1 {
+}
+._鼠標按下文本鏈接時 {
+}
+.line {
+}
+._文本框1 {
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+._複選框1 {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
+.tree_node {
+  text-align:left;
+}
+.menu_item {
+}
+._流程形狀 {
+}
+.horizontal_line {
+}
+._文本鏈接1 {
+  color:#428BCA;
+}
+._鼠標懸停文本鏈接時2 {
+  color:#2A6496;
+}
+._鼠標按下文本鏈接時1 {
+}
+._文本框2 {
+  color:#000000;
+  text-align:left;
+}
+._提交按鈕 {
+  color:#000000;
+}
+._text-muted {
+  color:#999999;
+}
+._text-primary {
+  color:#428BCA;
+}
+._text-success {
+  color:#3C763D;
+}
+._text-info {
+  color:#31708F;
+}
+._text-warning {
+  color:#8A6D3B;
+}
+._text-danger {
+  color:#A94442;
+}
+.blockquote {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#000000;
+  line-height:22px;
+}
+.lead {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:21px;
+  color:#333333;
+  line-height:29px;
+}
+._btn-default {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  text-align:center;
+  line-height:20px;
+}
+._btn-default_hover {
+  color:#333333;
+  text-align:center;
+  line-height:20px;
+}
+._btn-primary {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
+}
+._btn-primary_hover {
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
+}
+._btn-success {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
+}
+._btn-success_hover {
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
+}
+._btn-info {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
+}
+._btn-info_hover {
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
+}
+._btn-warning {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
+}
+._btn-warning_hover {
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
+}
+._btn-danger {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
+}
+._btn-danger_hover {
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
+}
+._btn-link {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#428BCA;
+  text-align:center;
+  line-height:20px;
+}
+._btn-link_hover {
+  color:#2A6496;
+  text-align:center;
+  line-height:20px;
+}
+.label {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  line-height:20px;
+}
+.form_text_field {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  line-height:20px;
+}
+.form_text_field_white {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  text-align:left;
+  line-height:20px;
+}
+.dropdown-menu {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  line-height:26px;
+}
+.dropdown-menu_hover {
+  line-height:26px;
+}
+._nav-tab_focused_tab {
+  color:#555555;
+  line-height:20px;
+}
+._nav-tab_background_tabs {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#428BCA;
+  text-align:center;
+  line-height:20px;
+}
+._nav-tab_tab_hover {
+  color:#2A6496;
+}
+._nav-pills_focused_pill {
+  color:#FFFFFF;
+}
+._nav-pills_background_pills {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#428BCA;
+  text-align:left;
+  line-height:20px;
+}
+._nav-pills_pill_hover {
+  color:#2A6496;
+}
+._navbar-default_link_hover {
+  color:#2A6496;
+}
+._navbar-inverse__background_ {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#999999;
+  line-height:20px;
+}
+._navbar-inverse_link {
+  font-size:14px;
+  color:#999999;
+  line-height:20px;
+}
+._navbar-inverse_link_hover {
+  color:#FFFFFF;
+}
+._breadcrumb_background {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#999999;
+  line-height:20px;
+}
+._pagination {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#428BCA;
+  line-height:26px;
+}
+._pager_btn {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#428BCA;
+  line-height:20px;
+}
+._alert-success {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#3C763D;
+  line-height:20px;
+}
+._alert-info {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#31708F;
+  line-height:20px;
+}
+._alert-warning {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#8A6D3B;
+  line-height:20px;
+}
+._alert-danger {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#A94442;
+  line-height:20px;
+}
+._progressbar_base {
+  line-height:20px;
+}
+._progressbar_default {
+  line-height:20px;
+}
+._progressbar_info {
+  line-height:20px;
+}
+._btn-grp__btn-default__ends_ {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+}
+._btn-grp__btn-default__center_ {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+}
+._btn-grp__btn-default_hover {
+}
+._btn-grp_divider {
+}
+._dropdown_menuitem {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+}
+._dropdown_menuitem_hover {
+  color:#252525;
+}
+._dropdown-menu__dropdown-header {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#999999;
+  line-height:17px;
+}
+._panel__panel-default__content_ {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  line-height:20px;
+}
+._panel__panel-default__no_title_ {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  line-height:20px;
+}
+._panel__panel-default__header_ {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  line-height:20px;
+}
+.popover__panel_content {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  line-height:20px;
+}
+._modal-dialogue_header {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  line-height:25px;
+}
+._modal-dialogue_content {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  line-height:20px;
+}
+._modal-backdrop {
+}
+.tooltip {
+  color:#FFFFFF;
+}
+.tooltip_arrow {
+}
+.badge {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+  line-height:12px;
+}
+.badge_active {
+  color:#428BCA;
+}
+._well__well-lg {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  line-height:20px;
+}
+._well__well-sm {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  line-height:20px;
+}
+._文本段落2 {
+  font-size:14px;
+  text-align:left;
+  line-height:20px;
+}
+._一級標題1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:36px;
+  text-align:left;
+}
+._二級標題1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:30px;
+  text-align:left;
+  line-height:33px;
+}
+._三級標題1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+  line-height:26px;
+}
+._四級標題1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+  line-height:19px;
+}
+._五級標題1 {
+  font-size:14px;
+  text-align:left;
+  line-height:15px;
+}
+._文本段落3 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+._形狀1 {
+  font-size:13px;
+  color:#000000;
+}
+._圖片1 {
+  font-size:13px;
+  color:#000000;
+}
+._多行文本框 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+.icon {
+}
+._表格1 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+._單元格 {
+  font-size:13px;
+  color:#000000;
+}
+._下拉列錶框1 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+._圖片2 {
+  color:#000000;
+}
+._btn-primary2_hover {
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
+}
